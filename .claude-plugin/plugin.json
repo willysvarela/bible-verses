@@ -1,0 +1,11 @@
+{
+  "name": "bible-verses",
+  "displayName": "Bible Verses Spinner",
+  "version": "1.0.0",
+  "description": "Replaces Claude Code's spinner words (\"Bamboozling…\") and tips with random encouraging Bible verses in your language, version and themes.",
+  "author": { "name": "Willys Varela", "url": "https://github.com/willysvarela" },
+  "homepage": "https://github.com/willysvarela/bible-verses",
+  "repository": "https://github.com/willysvarela/bible-verses",
+  "license": "MIT",
+  "keywords": ["bible", "verses", "spinner", "encouragement", "faith", "biblia", "versiculos"]
+}

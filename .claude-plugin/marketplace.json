@@ -1,0 +1,12 @@
+{
+  "name": "bible-verses",
+  "description": "Encouraging Bible verses in the Claude Code spinner",
+  "owner": { "name": "Willys Varela", "url": "https://github.com/willysvarela" },
+  "plugins": [
+    {
+      "name": "bible-verses",
+      "source": "./",
+      "description": "Random encouraging Bible verses instead of the spinner words, in your language, version and themes."
+    }
+  ]
+}
